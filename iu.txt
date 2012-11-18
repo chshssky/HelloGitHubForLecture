@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "AppDelegate.h"
 
 #include "cocos2d.h"
@@ -132,3 +133,6 @@ void AppDelegate::applicationWillEnterForeground()
     CCDirector::sharedDirector()->resume();
 }
 tell me, who create this file?
+=======
+tell me, who create this file? safnan nska sa   das dsad ad a 
+>>>>>>> 40dcf7d85304eb4721619adb9b0a0b79d4d24202
