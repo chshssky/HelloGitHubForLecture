@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 #include "AppDelegate.h"
 
 #include "cocos2d.h"
@@ -131,4 +133,38 @@ void AppDelegate::applicationWillEnterForeground()
 {
     CCDirector::sharedDirector()->resume();
 }
-ssss
+=======
+>>>>>>> 0e4d2cbdbebdf9b5e1ad8bec22872501ca772a8c
+HelloGitHubForLecture
+=====================
+
+just a test
+<<<<<<< HEAD
+=======
+
+
+李博一不是人~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+==|好麻烦啊
+>>>>>>> 0e4d2cbdbebdf9b5e1ad8bec22872501ca772a8c
+=======
+HelloGitHubForLecture
+=====================
+
+just a test
+
+
+李博一不是人~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+<<<<<<< HEAD
+%>_<%
+
+==|好麻烦啊'
+呀呀呀
+怎么还不出错。。
+>>>>>>> 40dcf7d85304eb4721619adb9b0a0b79d4d24202
+=======
+==|好麻烦啊'
+呀呀呀
+>>>>>>> d6c497632305d4d68ad3e6a90f700fb33e26be61
+>>>>>>> 0e4d2cbdbebdf9b5e1ad8bec22872501ca772a8c

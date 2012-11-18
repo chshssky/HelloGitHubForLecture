@@ -131,4 +131,13 @@ void AppDelegate::applicationWillEnterForeground()
 {
     CCDirector::sharedDirector()->resume();
 }
-ssss
+HelloGitHubForLecture
+=====================
+
+just a test
+
+
+李博一不是人~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+==|好麻烦啊'
+呀呀呀
