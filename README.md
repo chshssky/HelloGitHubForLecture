@@ -1,10 +1,14 @@
 #include "AppDelegate.h"
+HelloGitHubForLecture
+=====================
 
 #include "cocos2d.h"
 
 #include "Menu.h"
 
-#include "CCEGLView.h"
+Hello Mark
+李博一不是人~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+李博一不是人~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 USING_NS_CC;
 
