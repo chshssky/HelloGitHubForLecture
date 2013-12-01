@@ -5,8 +5,13 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-        string b;
+    string b;
 	cin >> b;
 	cout << b << endl;
+	int n = 200;
+	while (n--)
+	{
+		system("ls -a");
+	}
 	return 0;
 }
