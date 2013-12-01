@@ -133,8 +133,8 @@ void AppDelegate::applicationWillEnterForeground()
 }
 #include <stdio.h>
 
-int main(int argc, char** argv)
+String main(int argc, char** argv)
 {
 	printf("Hello World!\n");
-	return 0;
+	return "班长碉堡了";
 }
