@@ -8,14 +8,6 @@
 
 USING_NS_CC;
 
-AppDelegate::AppDelegate()
-{
-
-}
-
-AppDelegate::~AppDelegate()
-{
-}
 
 bool AppDelegate::initInstance()
 {
@@ -49,16 +41,7 @@ bool AppDelegate::initInstance()
 
 #endif  // CC_PLATFORM_ANDROID
 
-#if (CC_TARGET_PLATFORM == CC_PLATFORM_WOPHONE)
 
-		// Initialize OpenGLView instance, that release by CCDirector when application terminate.
-		// The HelloWorld is designed as HVGA.
-		CCEGLView* pMainWnd = new CCEGLView(this);
-		CC_BREAK_IF(! pMainWnd || ! pMainWnd->Create(320,480, WM_WINDOW_ROTATE_MODE_CW));
-
-#ifndef _TRANZDA_VM_  
-		// on wophone emulator, we copy resources files to Work7/NEWPLUS/TDA_DATA/Data/ folder instead of zip file
-		cocos2d::CCFileUtils::setResource("HelloWorld.zip");
 #endif
 
 #endif  // CC_PLATFORM_WOPHONE
