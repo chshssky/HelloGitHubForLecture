@@ -133,8 +133,14 @@ void AppDelegate::applicationWillEnterForeground()
 }
 #include <stdio.h>
 
+void nathanDBL ()
+{
+	std::cout << "nathanDBL" << std::endl;
+}
+
 int main(int argc, char** argv)
 {
+
 	printf("Hello World!\n");
 	return 0;
 }
