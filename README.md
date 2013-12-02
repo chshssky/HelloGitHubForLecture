@@ -1,3 +1,5 @@
+Orz
+
 #include "AppDelegate.h"
 HelloGitHubForLecture
 =====================
